@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MehdiMHeydari
+- 👋 Hi, I’m Mehdi Heydari
 - 👀 I’m interested in Bio-Inspired Robotics
-- 🌱 I’m currently learning Java, React, and C
-- 📫 Reach me at mehdi79h@gmail.com 
+- 🌱 I’m currently learning Python, React, Java, and C
+- 📫 Reach me at mmh287@cornell.edu 
 
 <!---
 MehdiMHeydari/MehdiMHeydari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
