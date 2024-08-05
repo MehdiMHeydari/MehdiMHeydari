@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehdi Heydari
-- 👀 I’m interested in Bio-Inspired Robotics
+- 👀 I’m interested in Robotics + AI/ML
 - 🌱 I’m currently learning Python, React, Java, and C
 - 📫 Reach me at mmh287@cornell.edu 
 
